@@ -112,4 +112,4 @@ npx hardhat newcircuit --name newcircuit
 
 ## Author
 
-[Gbadamosi Samad Gbolahan](https://github.com/Samadg)
+[Agbaje Tobi Emmanuel](https://github.com/Tobiagbaje)
